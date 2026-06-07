@@ -1,0 +1,1 @@
+RunnableInterface obj = new RunnableInterface();
